@@ -1,0 +1,11 @@
+.pio/
+.vscode/
+.DS_Store
+*.bak
+*.bak-*
+*.mov
+*.MOV
+*.mp4
+*.MP4
+.env
+.env.*
